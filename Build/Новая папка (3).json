@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "BOWC v1",
+"productVersion": "0.1",
+"dataUrl": "Новая папка (3).data.unityweb",
+"wasmCodeUrl": "Новая папка (3).wasm.code.unityweb",
+"wasmFrameworkUrl": "Новая папка (3).wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.2.0f1"
+}
